@@ -1,4 +1,4 @@
-Year,Gender,Types,Types2,Total,< 9thGrade,HighSchool,Associate,Bachelor,Master,Doctor
+Year,Gender,Types,Types2,Total,LessThan9thGrade,HighSchool,Associate,Bachelor,Master,Doctor
 2000,Men,Current,Main,41060,20790,34300,41950,56330,68320,80250
 2001,Men,Current,Main,41620,21360,34720,42780,55930,70900,86970
 2002,Men,Current,Main,41150,20920,33210,42860,56080,67280,83310
